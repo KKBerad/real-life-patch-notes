@@ -1,0 +1,1 @@
+v2.6.1: Fixed a bug where Monday arrived early. Removed the snooze button from reality. Known issue: the weekend is still too short.
